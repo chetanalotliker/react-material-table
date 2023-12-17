@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+For Demo of this project: https://chetanalotliker.github.io/react-material-table
+
 ## Available Scripts
 
 In the project directory, you can run:
